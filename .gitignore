@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+venv/
+data/cooccurrence_matrix.csv
+data/patient_records.csv
+results_comparison.png
+*.egg-info/
+.DS_Store
